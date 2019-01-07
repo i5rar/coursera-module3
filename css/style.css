@@ -6,8 +6,9 @@
 
 h1 {
 	font-family: Brushstroke, fantasy;
-	color: #000000;
+	color: #ffdb4d;
 	font-size: 5vw;
+	text-shadow: 2px 2px 8px #330000;
 }
 
 body {
@@ -51,14 +52,13 @@ section {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
-	margin-left: 70%;
+	margin-left: 36%;
 	font-family: Lucida Console,sans-serif;
 	font-weight: bold;
 	font-size: 3vw;
 	margin-bottom: 0;
 	margin-top: 5px;
 	padding: 5px;
-	background-color: #FFFF00;
 	border: 5px solid red;
     padding:  0em 1em;
     border-radius: 16px;
@@ -69,14 +69,13 @@ section {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
-	margin-left: 70%;
+	margin-left: 36%;
 	font-family: Lucida Console,sans-serif;
 	font-weight: bold;
 	font-size: 3vw;
 	margin-bottom: 0;
 	margin-top: 5px;
 	padding: 5px;
-	background-color: #FFFF00;
 	border: 5px solid red;
     padding:  0em 1em;
     border-radius: 16px;
@@ -87,13 +86,12 @@ section {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
-	margin-left: 70%;
+	margin-left: 36%;
 	font-family: Lucida Console,sans-serif;
 	font-weight: bold;
 	font-size: 3vw;
 	margin-bottom: 0;
 	margin-top: 5px;
-	background-color: #FFFF00;
 	color: black;
 	padding: 5px;
 	border: 5px solid red;
