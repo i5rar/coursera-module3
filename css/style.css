@@ -1,0 +1,180 @@
+/* Base Styles */
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: Brushstroke, fantasy;
+	color: #000000;
+	font-size: 5vw;
+}
+
+body {
+	background-color: #FEF5CA;
+    background-image: linear-gradient(to bottom, rgb(166, 24, 40), rgb(118, 10, 22));
+}
+
+p {
+	padding: 10px;
+	margin: 15px;
+	font-size: 1.2em
+
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+section {
+	border:	1px solid black;
+	background-color: #99ff99;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	text-align: justify
+	color: black;
+	position: relative;
+	overflow: auto;
+    box-shadow: 5px 7px 18px #401D21;
+    border-radius: 16px;
+    margin-bottom: 30px
+
+}
+
+#chicken {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Lucida Console,sans-serif;
+	font-weight: bold;
+	font-size: 3vw;
+	margin-bottom: 0;
+	margin-top: 5px;
+	padding: 5px;
+	background-color: #FFFF00;
+	border: 5px solid red;
+    padding:  0em 1em;
+    border-radius: 16px;
+    line-height: 2;
+}
+
+#beef {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Lucida Console,sans-serif;
+	font-weight: bold;
+	font-size: 3vw;
+	margin-bottom: 0;
+	margin-top: 5px;
+	padding: 5px;
+	background-color: #FFFF00;
+	border: 5px solid red;
+    padding:  0em 1em;
+    border-radius: 16px;
+    line-height: 2;
+}
+
+#sushi {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Lucida Console,sans-serif;
+	font-weight: bold;
+	font-size: 3vw;
+	margin-bottom: 0;
+	margin-top: 5px;
+	background-color: #FFFF00;
+	color: black;
+	padding: 5px;
+	border: 5px solid red;
+    padding:  0em 1em;
+    border-radius: 16px;
+    line-height: 2;
+}
+
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-size: 1.8em;
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+   font-size: 1.8em;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+   font-size: 1.8em;
+}
+
+.navbar-brand {
+  font-size: 3em;
+  border: 0 0 10px 10px;
+  color: #FFFFFF;
+  margin-bottom: 40px;
+  margin-top: -20px;
+  float: left;
+  text-shadow: 2px 2px 2px black;
+}
+
+#header-nav {
+  border: 0;
+  background-color: #ff9900;
+  color: #FFFFFF;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #E3F96A;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+  float: left;
+}
+
+.nav-header {
+  background-color: maroon;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+  font-size: 3em;
+}
+
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #262626;
+  color: white;
+  text-align: center;
+}
